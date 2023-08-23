@@ -1,1 +1,1 @@
-Do not forget to comfile the js with webpack or with your favorite compiler 
+Do not forget to compile the js with webpack or with your favorite compiler 
